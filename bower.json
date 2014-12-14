@@ -1,5 +1,5 @@
 {
-  "name": "sweetalert",
+  "name": "sweetalert-doog-team",
   "homepage": "http://tristanedwards.me/sweetalert",
   "authors": [
     "Tristan Edwards <tristan.edwards@me.com> (http://tristanedwards.me)"
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:t4t5/sweetalert.git"
+    "url": "https://github.com/doog-team/sweetalert.git"
   },
   "license": "MIT"
 }
